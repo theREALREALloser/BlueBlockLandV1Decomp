@@ -1,0 +1,10 @@
+global.rank = "none";
+global.desertrank = "none";
+global.mansionrank = "none";
+global.factoryrank = "none";
+global.sewerrank = "none";
+global.freezerrank = "none";
+global.entrancerank = "none";
+global.medievalrank = "none";
+levelsign = "none";
+image_speed = 0;
